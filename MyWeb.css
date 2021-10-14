@@ -1,0 +1,40 @@
+body
+{
+    text-align: center;
+    margin: 0;
+    background: linear-gradient(cyan 0%, darkred 100%);
+}
+#me
+{
+    border-radius: 500px;
+    margin-left: 10%;
+}
+h1
+{
+    font-family: sans-serif;
+    margin-left: 10%;
+}
+h2
+{
+    font-family: cursive;
+    margin-left: 13%;
+}
+.slotsPM
+{
+    list-style: none;
+    position: absolute;
+    font-family: fantasy;
+    z-index: 10;
+    bottom: 23%;
+    cursor: pointer;
+}
+.link
+{
+    padding-bottom: 30px;
+    padding-top: 30px;
+}
+.link:hover
+{
+    background-color: chartreuse;
+    font-family: 'Noto Sans Mono', monospace;
+}
